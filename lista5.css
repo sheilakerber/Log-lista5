@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(171, 245, 171, 0.5);
+}
+
+.exercicio {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    padding: 5px 24px;
+    margin: 10px 5px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+p {
+    font-size: 14pt;
+}
+
+button {
+    background-color: rgba(80, 177, 163, 0.2);
+    color: rgb(105, 104, 169);
+    font-size: 12pt;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-style: none;
+}
+
+button:hover {
+    background-color: rgba(80, 177, 163);
+    cursor: pointer;
+    color: white;
+}
